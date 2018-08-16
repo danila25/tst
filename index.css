@@ -1,0 +1,54 @@
+.tim{
+    background: black            
+
+}
+
+
+.tim8{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+}
+
+
+
+
+
+
+
+.f1{
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 50px;
+
+}
+
+.f2{
+    top: 150%;
+    left: 150%;
+}
+
+a{
+color: red
+}
+
+p{
+    color: azure
+}
+
+.tim1{
+    background: blueviolet
+}
+
+.t1{
+    
+    color: black
+    
+}
+
+
+
